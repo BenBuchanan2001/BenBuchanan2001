@@ -5,6 +5,7 @@ A self-taught programmer with a passion for technology and software development.
 🎓 Education:
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![University of Essex](https://img.shields.io/badge/University%20of%20Essex-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,[YourBase64EncodedLogo]&logoColor=white)
 
 💻 IDEs/Editors:
 
