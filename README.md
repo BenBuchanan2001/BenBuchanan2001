@@ -1,8 +1,12 @@
 ### Hey there! I'm Ben 👨‍💻
 
-A self-taught programmer with a passion for technology and software development. I'm currently enrolled in QA ltd's software development bootcamp, where we're acquiring in-depth knowledge of software design, testing frameworks, full-stack programming, and databases. When I'm not coding, I enjoy staying active in the gym 🏋️‍♂️, gaming 🕹️, and spending time with loved ones 👨‍👩‍👧‍👦.
+A self-taught programmer and Computer Science student at the University of Essex, passionate about technology, software development, and data analysis. Currently expanding my skills in AI, Data Structures & Algorithms, and Databases, while actively working on personal and academic projects.
 
 🎓 Education:
+
+QA Level 3 Software Development Bootcamp (2023): Covered full-stack programming, software design, DevOps, databases, and Agile workflows.
+
+BSc Computer Science – University of Essex (2024–2028, ongoing): Dean’s List, Top 10% of cohort, First Class in Year 1.
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![University of Essex](https://img.shields.io/badge/University%20of%20Essex-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,[YourBase64EncodedLogo]&logoColor=white)
