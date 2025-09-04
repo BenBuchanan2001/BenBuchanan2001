@@ -2,8 +2,6 @@
 
 A self-taught programmer and **Computer Science student at the University of Essex**, passionate about technology, software development, and data analysis. Currently expanding my skills in **AI, Data Structures & Algorithms, and Databases**, while actively working on personal and academic projects.
 
-When I’m not coding, I enjoy **hitting the gym 🏋️‍♂️**, **gaming 🕹️**, and spending quality time with family and friends 👨‍👩‍👧‍👦.
-
 ---
 
 ## 🎓 Education
